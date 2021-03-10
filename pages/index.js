@@ -54,6 +54,7 @@ export default function Home() {
     <Link href="/"><a>top</a></Link><br/>
     <Link href="/time"><a>time</a></Link><br/>
     <Link href="/time2"><a>time2</a></Link>
+    <Link href="/time3"><a>time3</a></Link>
 
       <footer className={styles.footer}>
         <a
